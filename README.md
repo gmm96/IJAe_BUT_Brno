@@ -45,6 +45,12 @@ of calculation engine math.js
 - Angles can be expressed in *degrees* or *radians*.
 - Main class is called CalcDemo.java. Math.js is obtained by internet.
 
+Project can be compiled and executed by the next commands in root project folder:
+
+        $ ant
+        $ java -jar dist/xmonte03.jar
+
+
 ### Captures
 
 ![Binary base](https://raw.githubusercontent.com/gmm96/IJAe_BUT_Brno/master/img/Screenshot_20181016_032547.png "Binary base")
